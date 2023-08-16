@@ -13,9 +13,12 @@ Username dicoding: mzfuadi97
 Hasil ini menunjukkan bahwa model mengalami peningkatan dalam meramalkan suhu dari epoch ke epoch. Pelatihan dihentikan lebih awal karena model sudah cukup baik dalam meramalkan suhu dengan tingkat error yang rendah (MAE < 10% dari skala data), dan lebih lanjut tidak diperlukan untuk mencapai performa yang lebih baik |
 
 ### Dataset
+![Dataset](https://github.com/mzfuadi97/ML-TimeSeries/assets/70827786/40371e95-e2db-480b-8821-87197308345c)
 
 ### Timeseries_viz
+![Timeseries](https://github.com/mzfuadi97/ML-TimeSeries/assets/70827786/6e9cdf6b-4312-42ee-991a-ecb07ef9a440)
 
 ### Validation-epoch
+![Metrik_Evaluasi](https://github.com/mzfuadi97/ML-TimeSeries/assets/70827786/d908c916-e02f-4777-8f3f-751d9093da54)
 
 
